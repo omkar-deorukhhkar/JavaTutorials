@@ -1,4 +1,4 @@
-import java.util.*; // Collections contains Array List
+import java.util.*; // Collections contains Hashtable
 
 public class HashTableCollection {
     public static void main(String[] args) {
