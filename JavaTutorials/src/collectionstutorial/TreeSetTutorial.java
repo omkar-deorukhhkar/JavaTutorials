@@ -1,3 +1,5 @@
+package collectionstutorial;
+
 import java.util.*; // Collections contains TreeSet
 
 public class TreeSetTutorial {
